@@ -3,3 +3,7 @@
 *.iml
 /bower_components
 /npm_publish.bat
+
+.idea/
+cordova-plugin-*.tgz
+.history
